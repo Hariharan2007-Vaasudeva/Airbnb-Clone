@@ -1,0 +1,68 @@
+
+/*.logo {*/
+/*  display: flex;*/
+/*  gap: 20px;*/
+/*  align-items: center;*/
+/*  font-size: 10px;*/
+/*  font-weight: bold;*/
+/*  color: #dddddd;*/
+/*}*/
+
+
+
+
+.search-bar input{
+/*  flex: 1;*/
+/*  max-width: 0;*/
+/*  border: none;*/
+/*  outline: none;*/
+/*  font-size: 16px;*/
+/*  background: transparent;*/
+/*}*/
+}
+
+
+/*.search {*/
+/*  height: 40px;*/
+/*  display: flex;*/
+/*  animation-range: normal;*/
+/*  justify-content: center;*/
+/*  padding: 33px 73px;*/
+/*  font-size: 16px;*/
+/*  border-bottom: 4px solid #ddd;*/
+/*}*/
+
+
+<!--     <img src="https://source.unsplash.com/random/200x200/?plants 4">-->
+<!--     <img src="https://loremflickr.com/800/600/villa,house/all" alt="Airbnb Style Villa"ment">&ndash;&gt;-->
+<!--     <img id="room-image" src="https://loremflickr.com/200/200/home,room/all" alt="Home Room Image">-->
+
+
+<img id="home-img" src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=200&q=20" alt="Home Image">
+       <img id="" src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=200&q=20" alt="Home Image">
+       <img id="" src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=200&q=20" alt="Home Image">
+       <img id="Home" src="https://loremflickr.com/800/600/livingroom">
+              <img id="auto-img" src="https://picsum.photos/800/600" alt="Random Image">
+
+
+
+
+<div class="airbnb-embed-frame" data-id="1480526180682931236" data-view="home" data-hide-price="true" style="width:450px;height:300px;margin:auto"><a href="https://www.airbnb.co.in/rooms/1480526180682931236?check_in=2026-10-11&amp;check_out=2026-10-12&amp;guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget">View on Airbnb</a><a href="https://www.airbnb.co.in/rooms/1480526180682931236?check_in=2026-10-11&amp;check_out=2026-10-12&amp;guests=1&amp;adults=1&amp;s=66&amp;source=embed_widget" rel="nofollow">Vellostay Pink Studio | Couple Friendly | Cozy</a><script async="" src="https://www.airbnb.co.in/embeddable/airbnb_jssdk"></script></div>
+
+Arts & culture
+Beach
+Mountains
+Outdoors
+Things to do
+
+      <div class="contact">
+        <a href=""><img src="globalization.png">English (IN)</a>
+      </div>
+      <div class="currency">
+        <a href=""><img src="currency.png">INR</a>
+        <div class="log">
+            <a href=""><img src="facebook.png"></a>
+            <a href=""><img src="twitter.png"></a>
+            <a href=""><img src="instagram.png"></a> 
+        </div>
+      </div>
