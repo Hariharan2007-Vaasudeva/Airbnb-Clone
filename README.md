@@ -1,46 +1,55 @@
 # 🏡 Airbnb Clone
 
-A responsive Airbnb-inspired website built using **HTML and CSS**, designed to recreate the look and feel of Airbnb's homepage.
+A frontend project inspired by Airbnb, built using **HTML and CSS** to recreate its homepage layout and user interface.
 
-## 🌟 Features
+## 🌐 Live Demo
+
+🔗 **[View Airbnb Clone Website](https://hariharan2007-vaasudeva.github.io/Airbnb-Clone/)**
+
+## ✨ Features
 
 - 🏠 Airbnb-inspired navigation bar
-- 🔍 Search bar for destinations
-- 🌍 Property listings across multiple destinations
-- 🏞️ Popular stays in Gurugram, Goa, Shimla, and Manali
-- 🧭 Category navigation for different travel experiences
-- 📌 Inspiration section with popular destinations
-- 🦶 Footer with support, hosting, and company links
-- 🎨 Clean and user-friendly interface
+- 🔍 Destination search bar
+- 🏡 Property listings with Airbnb embeds
+- 🌍 Explore stays in Gurugram, Goa, Shimla, and Manali
+- 🏔️ Multiple destination sections
+- 🧭 Navigation links and category tabs
+- 📌 Travel inspiration section
+- 📱 Clean and user-friendly interface
+- 🦶 Footer with support, hosting, and social media links
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
-- Font Awesome Icons
+- Font Awesome
 - Google Fonts
 
 ## 📸 Project Overview
 
-This project recreates the Airbnb homepage layout with property listing sections, navigation menus, destination search, and footer content.
+This project recreates the visual layout of Airbnb's homepage, including its navigation bar, search area, property listings, destination categories, and footer.
 
 ## 🚀 Getting Started
 
-1. Clone this repository:
+Follow these steps to run the project locally.
 
-   ```bash
-   git clone YOUR_REPOSITORY_URL
-   ```
+**1. Clone the repository**
 
-2. Open the project folder:
+```bash
+git clone https://github.com/hariharan2007-vaasudeva/Airbnb-Clone.git
+```
 
-   ```bash
-   cd YOUR_PROJECT_FOLDER
-   ```
+**2. Open the project folder**
 
-3. Open `index.html` in your browser.
+```bash
+cd Airbnb-Clone
+```
 
-## 📁 Project Structure
+**3. Run the project**
+
+Open `index.html` in your browser.
+
+## 📂 Project Structure
 
 ```text
 Airbnb-Clone/
@@ -61,22 +70,25 @@ Airbnb-Clone/
 └── instagram.png
 ```
 
-*Keep your actual image filenames and folders consistent with your project.*
+*Note: The filenames above are examples from the project. Keep all actual image files and folders in their correct locations.*
 
 ## 🎯 Learning Outcomes
 
-- Practiced HTML page structure and semantic elements
-- Improved CSS styling and layout skills
-- Learned to organize navigation bars and search sections
-- Practiced displaying property listings and destination categories
-- Improved frontend development skills through a real-world-inspired project
+- Practiced HTML page structure and CSS styling
+- Improved navigation bar and search bar design
+- Learned to organize property listing sections
+- Practiced using external fonts and icons
+- Gained hands-on experience in frontend development
 
 ## 👨‍💻 Author
 
-**Hariharan R**
+**Hariharan R.**
 
-Built with ❤️ using HTML and CSS.
+- GitHub: [@hariharan2007-vaasudeva](https://github.com/hariharan2007-vaasudeva)
+- Live Project: [Airbnb Clone](https://hariharan2007-vaasudeva.github.io/Airbnb-Clone/)
 
 ---
 
 ⭐ If you like this project, consider giving the repository a star!
+
+*Disclaimer: This is an educational frontend clone inspired by Airbnb. It is not the official Airbnb website.*
